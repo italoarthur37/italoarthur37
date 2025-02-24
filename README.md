@@ -18,9 +18,12 @@ Me chamo Italo Arthur Caxiado Araujo, tenho 23 anos e sou natural do Rio Grande 
 - 📌 **Projetos de Sistemas de TI – Bradesco**  
 - 📌 **Administrando Banco de Dados – Bradesco**  
 - 📌 **Implementando Banco de Dados – Bradesco**  
-- 📌 **Modelagem de Dados – Bradesco**  
+- 📌 **Modelagem de Dados – Bradesco**
+- 📌 **Aprendendo Lógica de Programação - Digital Innovation One**
 - 📌 **Participação na Jornada Python - Hashtag**  
-- 📌 **Formação Python Fundamentals - Digital Innovation One** 
+- 📌 **Formação Python Fundamentals - Digital Innovation One**
+- 📌 **Dando seus Primeiros Passos com Javascript - Digital Innovation One**
+- 📌 **Participação na Jornada Full Stack - Hashtag**
 
 ---
 ### 🖥️ Tecnologias e Linguagens (Por Enquanto...)
