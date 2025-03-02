@@ -86,6 +86,15 @@ Me chamo Italo Arthur Caxiado Araujo, tenho 23 anos e sou natural do Rio Grande 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"     
 />
+
+<img 
+    align="left" 
+    alt="Typescript" 
+    title="Typescript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"     
+/>
       
 <br/>
 <br/>
