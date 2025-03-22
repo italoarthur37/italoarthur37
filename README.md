@@ -26,6 +26,10 @@ Me chamo Italo Arthur Caxiado Araujo, tenho 23 anos e sou natural do Rio Grande 
 - 📌 **Participação na Jornada Full Stack - Hashtag**
 - 📌 **Formação Node.js Fundamentals - Digital Innovation One**
 - 📌 **Fundamentos .NET - Digital Innovation One**
+- 📌 **Bancos de Dados Relacionais e Não Relacionais com SQL Server e MongoDB - Digital Innovation One.**
+- 📌 **Fundamentos .NET - Digital Innovation One**
+- 📌 **Explorando a linguagem C# - Digital Innovation One.**
+- 📌 **Programação Orientada a Objetos com C# - Digital Innovation One.**
   
 ---
 ### 🖥️ Tecnologias e Linguagens (Por Enquanto...)
