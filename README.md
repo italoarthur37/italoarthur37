@@ -112,10 +112,3 @@ Me chamo Italo Arthur Caxiado Araujo, tenho 23 anos e sou natural do Rio Grande 
 <br/>
 <br/>
 
-
----
-
-<div>
-    <a href="https://github.com/italoarthur37"> 
-    <img width="510em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoarthur37&layout=compact&langs_count=6&theme=dark"/>
-</div>
