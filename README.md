@@ -2,34 +2,10 @@
 
 **`Um Estudante Curioso`**
 
-Me chamo Italo Arthur Caxiado Araujo, tenho 23 anos e sou natural do Rio Grande do Norte. Sou formado em Ciências e Tecnologia, pela Universidade Federal do Rio Grande do Norte (UFRN). Sou apaixonado por Tecnologia e estou sempre em busca de novos aprendizados.
+Me chamo Italo Arthur Caxiado Araujo, tenho 24 anos e sou natural do Rio Grande do Norte. Sou formado em Ciências e Tecnologia, pela Universidade Federal do Rio Grande do Norte (UFRN). Sou apaixonado por Tecnologia e estou sempre em busca de novos aprendizados.
 
 🖥️ **Soft Skills:** Proativo, curioso e comunicativo.
 
----
-### 📜 Cursos e Certificações
-
-- 📌 **Participação no DevOpsDays Natal 2024**  
-- 📌 **Computação em Nuvem AWS Discovery Day – KaSolution**  
-- 📌 **Planejamento e Gestão de Projetos – Udemy**  
-- 📌 **Inteligência Artificial e o Novo Contexto da Cultura Digital – Bradesco**  
-- 📌 **Fundamentos Básicos do SAP S/4HANA – Bradesco**  
-- 📌 **Scrum Overview – KaSolution**  
-- 📌 **Projetos de Sistemas de TI – Bradesco**  
-- 📌 **Administrando Banco de Dados – Bradesco**  
-- 📌 **Implementando Banco de Dados – Bradesco**  
-- 📌 **Modelagem de Dados – Bradesco**
-- 📌 **Aprendendo Lógica de Programação - Digital Innovation One**
-- 📌 **Participação na Jornada Python - Hashtag**  
-- 📌 **Formação Python Fundamentals - Digital Innovation One**
-- 📌 **Dando seus Primeiros Passos com Javascript - Digital Innovation One**
-- 📌 **Participação na Jornada Full Stack - Hashtag**
-- 📌 **Formação Node.js Fundamentals - Digital Innovation One**
-- 📌 **Fundamentos .NET - Digital Innovation One**
-- 📌 **Bancos de Dados Relacionais e Não Relacionais com SQL Server e MongoDB - Digital Innovation One.**
-- 📌 **Fundamentos .NET - Digital Innovation One**
-- 📌 **Explorando a linguagem C# - Digital Innovation One.**
-- 📌 **Programação Orientada a Objetos com C# - Digital Innovation One.**
   
 ---
 ### 🖥️ Tecnologias e Linguagens (Por Enquanto...)
